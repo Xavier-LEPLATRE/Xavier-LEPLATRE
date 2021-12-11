@@ -23,7 +23,7 @@ enriching experience in my life. For the first time, I did what I really want to
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xavier-leplatre&layout=compact)](https://github.com/xavier-leplatre/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xavier-leplatre&theme=tokyonight)](https://github.com/xavier-leplatre/github-readme-stats)
 
 <!---
 Xavier-LEPLATRE/Xavier-LEPLATRE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
